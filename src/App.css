@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.divroot{
+    border: 3px solid green;
+    font-size: 25px;
+}
+.Lists{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,40 @@
+.poolposts{
+    list-style: none;
+    margin: 0 auto;
+    margin-top: 2em;
+    padding-bottom: 3em;
+}
+.poolDiv{
+    width: 100%;
+    height: 50%;
+    margin: 0 auto;
+    align-items: center;
+    border: 5px solid #1b852f;
+    display: grid;
+    padding: 25px;
+}
+.poolInput{
+    width: 200px;
+    height: 25px;
+    margin: 0 auto;
+    border-radius: 2em;
+    outline:none;
+    font-size: 15px;
+}
+.comentli{
+    list-style: none;
+    padding: 0.6em;
+    color: white;
+    background-color: #1b852f;
+    border-radius: 0.4em;
+}
+.comentsspan{
+    padding: 15px;
+}
+.star{
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    left: 7px;
+    top: 5px;
+}
